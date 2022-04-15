@@ -1,0 +1,7 @@
+{
+  "name": "package-a-name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zver64",
+  "license": "MIT"
+}

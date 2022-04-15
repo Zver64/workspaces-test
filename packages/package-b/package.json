@@ -1,0 +1,10 @@
+{
+  "name": "package-b-name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zver64",
+  "license": "MIT",
+  "dependencies": {
+    "package-a-name": "1.0.0"
+  }
+}

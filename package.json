@@ -1,0 +1,10 @@
+{
+  "name": "workspaces-test",
+  "version": "1.0.0",
+  "description": "test vscode imports from workspaces",
+  "main": "index.js",
+  "author": "zver64",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
